@@ -7,6 +7,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://nirantk.com/drafts/belief_arbitrage.html</loc>
+    <lastmod>2021-07-21T00:09:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://nirantk.com/drafts.html</loc>
+    <lastmod>2021-07-21T00:09:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://nirantk.com/tags/machine-learning.html</loc>
     <lastmod>2021-07-21T00:09:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
@@ -22,6 +32,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://nirantk.com/tags/niranting.html</loc>
+    <lastmod>2021-07-21T00:09:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://nirantk.com/tags.html</loc>
     <lastmod>2021-07-21T00:09:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
@@ -29,11 +44,6 @@
   </url><url>
     <loc>https://nirantk.com/tags/tech.html</loc>
     <lastmod>2021-07-21T00:09:00+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://nirantk.com/tags/niranting.html</loc>
-    <lastmod>2021-05-09T23:29:18+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -236,10 +246,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://nirantk.com/categories.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://nirantk.com/drafts.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
