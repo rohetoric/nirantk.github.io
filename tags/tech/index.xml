@@ -6,7 +6,19 @@
     <description>Recent content in tech on Nirant Kasliwal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2020 23:29:18 +0530</lastBuildDate><atom:link href="https://nirantk.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 00:09:00 +0530</lastBuildDate><atom:link href="https://nirantk.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MLOps for Startups</title>
+      <link>https://nirantk.com/writing/mlops_for_startups.html</link>
+      <pubDate>Wed, 21 Jul 2021 00:09:00 +0530</pubDate>
+      
+      <guid>https://nirantk.com/writing/mlops_for_startups.html</guid>
+      <description>OVERVIEW Start your development by writing the overall impact and feature overview in the Press Release doc and README
+If your time to ship is more than 2 weeks, write a functional spec
+In case of bug fixes, add bug details or link to Asana/Github Issues
+Always. Do trunk-based development. Don’t restrict a deployment trigger to specific people. As soon as you are done, go ahead, deploy and let others deploy.</description>
+    </item>
+    
     <item>
       <title>How to Read a Deep Learning Paper</title>
       <link>https://nirantk.com/writing/read-deep-learning-paper.html</link>
