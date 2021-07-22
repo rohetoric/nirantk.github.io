@@ -42,6 +42,16 @@ The First 90 Days for a New Engineer I expect each step to take roughly between 
     </item>
     
     <item>
+      <title>Building a Data Science Team at a Startup</title>
+      <link>https://nirantk.com/writing/building-a-data-science-team.html</link>
+      <pubDate>Sun, 30 Aug 2020 00:09:00 +0530</pubDate>
+      
+      <guid>https://nirantk.com/writing/building-a-data-science-team.html</guid>
+      <description>Hello!
+If we are meeting for the first time, a short version of my story so far: After doing research engineering for almost 4 years across startups and a BigCo, I joined as an early machine learning engineer at Verloop.io - a B2B startup that makes customer support automation SaaS in 2019. I was there till April 201. We were directly responsible for most Natural Language Processing needs within the business.</description>
+    </item>
+    
+    <item>
       <title>Verloop NLP Interview Prep Guide</title>
       <link>https://nirantk.com/writing/verloop-ml-prep-guide.html</link>
       <pubDate>Sat, 29 Aug 2020 00:09:00 +0530</pubDate>

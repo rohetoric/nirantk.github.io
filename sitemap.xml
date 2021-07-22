@@ -72,6 +72,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://nirantk.com/writing/building-a-data-science-team.html</loc>
+    <lastmod>2020-08-30T00:09:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://nirantk.com/tags/org.html</loc>
+    <lastmod>2020-08-30T00:09:00+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://nirantk.com/tags/verloop.html</loc>
     <lastmod>2020-08-29T00:09:00+05:30</lastmod>
     <changefreq>monthly</changefreq>
