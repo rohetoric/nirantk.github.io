@@ -2,7 +2,11 @@
 This has well known challenges: changes do not propagate downstream from the source, and reliable (fresh, updated or complete) data is not always available.
 What does Minerva do? I was expecting Minerva to a database (collection of tables), but it turns out that Minerva is what I&amp;rsquo;ll call: Data Transformation Manager.
 It overlaps quite a bit with dbt but it&amp;rsquo;s not a pure execution layer.</description></item><item><title>Generative AI Hack Demos</title><link>https://nirantk.com/deephackdemos.html</link><pubDate>Sat, 02 Apr 2022 00:00:09 +0530</pubDate><guid>https://nirantk.com/deephackdemos.html</guid><description>👋 You&amp;rsquo;ve landed at the perfect spot to check out all the coolest demos from the #GenerativeAIHack.
-🧑‍🤝‍🧑 90+ hackers on Day 1, 150+ folks at Demo day ⚡️ 43 submissions, 32 in-person, 11 remote from 6 cities 🙏 13 sponsors from 3 countries, 2 COSS: Weaviate, AppSmith 🤗 20% raised from communities 💰 5 Lakh INR in Prizes
+🧑‍🤝‍🧑 90+ hackers on Day 1, 150+ folks at Demo day
+⚡️ 43 submissions, 32 in-person, 11 remote from 6 cities
+🙏 13 sponsors from 3 countries, 2 COSS: Weaviate, AppSmith
+🤗 20% raised from communities
+💰 5 Lakh INR in Prizes
 I&amp;rsquo;m super stoked to share these mind-blowing projects with you—created by some seriously talented folks from all corners of the world.</description></item><item><title>Beyond First 90 Days</title><link>https://nirantk.com/writing/beyond-first-90-days.html</link><pubDate>Sat, 12 Feb 2022 00:09:00 +0530</pubDate><guid>https://nirantk.com/writing/beyond-first-90-days.html</guid><description>This one&amp;rsquo;s gonna be brief and echoes 2 Less Obvious Ideas to the younger me.
 I am assuming that you already know the hygiene factors: Make few promises. Keep most of them and exceed few of them atleast. Get to like the top 5% in the skill of effort estimation for your own work at the very least. And so on.
 Contribute to Developer Ecosystem Improving any part of the developer ecosystem is useful and visible at the same time.</description></item><item><title>Dos and Don'ts for ML Hiring</title><link>https://nirantk.com/writing/ml-hiring.html</link><pubDate>Thu, 27 Jan 2022 00:09:00 +0530</pubDate><guid>https://nirantk.com/writing/ml-hiring.html</guid><description>This is primarily for my future self. These are observations based on my own experience of 2 years at Verloop.io and helping a few companies hire for similar roles.
